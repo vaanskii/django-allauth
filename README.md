@@ -12,7 +12,7 @@ git clone git@github.com:vaanskii/django-allauth.git
 
 2.Navigate into the project directory:
 ```bash
-cd django-allauth-example
+cd django-allauth
 ```
 3.Create a virtual environment:
 ```bash
